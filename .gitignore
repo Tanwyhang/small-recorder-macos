@@ -1,0 +1,9 @@
+.DS_Store
+*.app/
+build/
+*.mp4
+*.mov
+*.png
+*.log
+README.txt
+latest-test-path.txt
